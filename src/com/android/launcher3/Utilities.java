@@ -1332,7 +1332,7 @@ public final class Utilities {
         // Then check user preference (default to true if not set)
         SharedPreferences prefs = context.getSharedPreferences(
                 LauncherFiles.SHARED_PREFERENCES_KEY, Context.MODE_PRIVATE);
-        return prefs.getBoolean(KEY_ALL_APPS_BLUR, true);
+        return prefs.getBoolean(KEY_ALL_APPS_BLUR, false);
     }
 
     /**

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (C) 2025 OrionOS
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+		android:width="24.0dp"
+		android:height="24.0dp"
+		android:viewportWidth="24.0"
+		android:viewportHeight="24.0">
+	<path
+		android:fillColor="#FF000000"
+		android:strokeColor="#FF000000"
+		android:strokeWidth="0.45000374"
+		android:strokeLineJoin="miter"
+		android:fillType="nonZero"
+		android:strokeLineCap="square"
+		android:pathData="M6.86,1.29C8.93,1.29,10.61,2.96,10.61,5.04C10.61,7.11,8.93,8.79,6.86,8.79C4.79,8.79,3.11,7.11,3.11,5.04C3.11,2.96,4.79,1.29,6.86,1.29z"/>
+	<path
+		android:fillColor="#FF000000"
+		android:strokeColor="#FF000000"
+		android:strokeWidth="0.51678455"
+		android:strokeLineJoin="miter"
+		android:fillType="nonZero"
+		android:strokeLineCap="square"
+		android:pathData="M16.59,7.96C18.96,7.96,20.89,9.88,20.89,12.26C20.89,14.64,18.96,16.57,16.59,16.57C14.21,16.57,12.28,14.64,12.28,12.26C12.28,9.88,14.21,7.96,16.59,7.96z"/>
+	<path
+		android:fillColor="#FF000000"
+		android:strokeColor="#FF000000"
+		android:strokeWidth="0.3281008"
+		android:strokeLineJoin="miter"
+		android:fillType="nonZero"
+		android:strokeLineCap="square"
+		android:pathData="M6.65,17.25C8.16,17.25,9.38,18.47,9.38,19.98C9.38,21.49,8.16,22.71,6.65,22.71C5.14,22.71,3.92,21.49,3.92,19.98C3.92,18.47,5.14,17.25,6.65,17.25z"/>
+	<path
+		android:fillColor="#FF000000"
+		android:strokeColor="#FF000000"
+		android:strokeWidth="2.6167853"
+		android:strokeLineJoin="miter"
+		android:fillType="nonZero"
+		android:strokeLineCap="square"
+		android:pathData="M9.49,7.13L14.15,10.25"/>
+	<path
+		android:fillColor="#FF000000"
+		android:strokeColor="#FF000000"
+		android:strokeWidth="2.6167853"
+		android:strokeLineJoin="miter"
+		android:fillType="nonZero"
+		android:strokeLineCap="square"
+		android:pathData="M8.77,18.38L14.71,14.19"/>
+</vector>

@@ -15,17 +15,17 @@
 <RelativeLayout 
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:background="@drawable/derp_card"
+    android:background="@drawable/orion_card"
     android:layout_marginStart="16dp"
     android:layout_marginEnd="16dp"
     android:layout_marginTop="24dp"
     android:layout_gravity="center_vertical"
-    android:id="@+id/derp_logo"
+    android:id="@+id/orion_logo"
     android:layout_width="fill_parent"
     android:layout_height="wrap_content">
 
     <ImageView
-    	android:id="@id/derp_logo"
+    	android:id="@id/orion_logo"
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:layout_marginTop="36dp"
@@ -33,7 +33,7 @@
         android:layout_marginStart="36dp"
         android:layout_centerVertical="true"
         android:minWidth="48dp"
-        android:src="@drawable/ic_derpowl"
+        android:src="@drawable/ic_orion"
         android:adjustViewBounds="true"
         android:scaleType="centerInside"/>
         
@@ -47,7 +47,7 @@
         android:layout_marginStart="36dp"
         android:layout_marginEnd="26dp"
         android:layout_centerVertical="true"
-        android:layout_toEndOf="@+id/derp_logo">
+        android:layout_toEndOf="@+id/orion_logo">
         
         <TextView
             android:layout_width="match_parent"

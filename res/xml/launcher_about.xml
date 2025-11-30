@@ -4,8 +4,8 @@ xmlns:android="http://schemas.android.com/apk/res/android"
 xmlns:settings="http://schemas.android.com/apk/res-auto">
 
         <PreferenceScreen
-            android:layout="@layout/derp_logo"
-            android:key="derp_logo"
+            android:layout="@layout/orion_logo"
+            android:key="orion_logo"
             android:selectable="false" />
 
     <PreferenceCategory 
@@ -14,7 +14,7 @@ xmlns:settings="http://schemas.android.com/apk/res-auto">
         <Preference
             android:key="about_credit01"
             android:title="Lawnchair team"
-            settings:layout="@layout/derp_about"
+            settings:layout="@layout/orion_about"
             android:persistent="false"
             android:selectable="true">
             <intent
@@ -25,7 +25,7 @@ xmlns:settings="http://schemas.android.com/apk/res-auto">
         <Preference
             android:key="about_credit01"
             android:title="LineageOS"
-            settings:layout="@layout/derp_about"
+            settings:layout="@layout/orion_about"
             android:persistent="false"
             android:selectable="true">
             <intent
@@ -36,7 +36,7 @@ xmlns:settings="http://schemas.android.com/apk/res-auto">
         <Preference
             android:key="about_credit01"
             android:title="Amir Zaidi (Shade Launcher)"
-            settings:layout="@layout/derp_about"
+            settings:layout="@layout/orion_about"
             android:persistent="false"
             android:selectable="true">
             <intent
@@ -47,7 +47,7 @@ xmlns:settings="http://schemas.android.com/apk/res-auto">
         <Preference
             android:key="about_credit01"
             android:title="Bootleggers ROM"
-            settings:layout="@layout/derp_about"
+            settings:layout="@layout/orion_about"
             android:persistent="false"
             android:selectable="true">
             <intent
@@ -58,7 +58,7 @@ xmlns:settings="http://schemas.android.com/apk/res-auto">
         <Preference
             android:key="about_credit01"
             android:title="Corvus-AOSP team"
-            settings:layout="@layout/derp_about"
+            settings:layout="@layout/orion_about"
             android:persistent="false"
             android:selectable="true">
             <intent
@@ -69,7 +69,7 @@ xmlns:settings="http://schemas.android.com/apk/res-auto">
         <Preference
             android:key="about_credit01"
             android:title="crDroid team"
-            settings:layout="@layout/derp_about"
+            settings:layout="@layout/orion_about"
             android:persistent="false"
             android:selectable="true">
             <intent
@@ -80,7 +80,7 @@ xmlns:settings="http://schemas.android.com/apk/res-auto">
         <Preference
             android:key="about_credit01"
             android:title="Rizky Benggolo"
-            settings:layout="@layout/derp_about"
+            settings:layout="@layout/orion_about"
             android:persistent="false"
             android:selectable="true">
             <intent
@@ -91,7 +91,7 @@ xmlns:settings="http://schemas.android.com/apk/res-auto">
         <Preference
             android:key="about_credit01"
             android:title="RiceDroid team"
-            settings:layout="@layout/derp_about"
+            settings:layout="@layout/orion_about"
             android:persistent="false"
             android:selectable="false">
             <intent

@@ -268,7 +268,7 @@ public class QuickEventsController {
         mEventTitle = mContext.getResources().getString(R.string.quick_event_rom_intro_welcome);
         String[] intros = mContext.getResources().getStringArray(R.array.welcome_message_variants);
         mEventTitleSub = intros[getLuckyNumber(intros.length - 1)];
-        mEventSubIcon = R.drawable.ic_quickspace_derp;
+        mEventSubIcon = R.drawable.ic_quickspace_orion;
 
         mEventTitleSubAction = view -> {
             long forceComplete = Utilities.getInitTimestamp(mContext) - (mIntroTimeout * 60000);
@@ -382,11 +382,11 @@ public class QuickEventsController {
                         mEventTitleSub += " | " + appMemInfo;
                     }
                 }
-                mEventSubIcon = R.drawable.ic_quickspace_derp;
+                mEventSubIcon = R.drawable.ic_quickspace_orion;
             } else {
-                //regular random derp quote
+                //regular random orion quote
                 mEventTitleSub = mPSARandomStr[getLuckyNumber(0, mPSARandomStr.length - 1)];
-                mEventSubIcon = R.drawable.ic_quickspace_derp;
+                mEventSubIcon = R.drawable.ic_quickspace_orion;
             }
 
             //it's always a quickEvent in these cases
@@ -395,7 +395,7 @@ public class QuickEventsController {
         else if ((hour == 4 || hour == 16) && (minute >= 20 && minute < 30)) {
             //dedicated 420 quote
             mEventTitleSub = mPSABlazeItStr[getLuckyNumber(0, mPSABlazeItStr.length - 1)];
-            mEventSubIcon = R.drawable.ic_quickspace_derp;
+            mEventSubIcon = R.drawable.ic_quickspace_orion;
             mIsQuickEvent = true;
         } else switch (hour) {
             case 5: case 6: case 7: case 8: case 9:

@@ -5,13 +5,13 @@
 -->
 <resources>
 
-    <style name="derp_about_cardview_text_primary">
+    <style name="orion_about_cardview_text_primary">
         <item name="android:textSize">16sp</item>
         <item name="android:textStyle">normal</item>
         <item name="android:textColor">?android:attr/textColorPrimary</item>
         <item name="android:fontFamily">@*android:string/config_headlineFontFamily</item>
     </style>
-    <style name="derp_about_cardview_text_secondary">
+    <style name="orion_about_cardview_text_secondary">
         <item name="android:textSize">14sp</item>
         <item name="android:textStyle">normal</item>
         <item name="android:textColor">?android:attr/textColorSecondary</item>
@@ -19,7 +19,7 @@
         <item name="android:layout_marginBottom">1sp</item>
         <item name="android:fontFamily">@*android:string/config_headlineFontFamily</item>
     </style>
-    <style name="derp_cardview_text_primary">
+    <style name="orion_cardview_text_primary">
         <item name="android:textSize">18dp</item>
         <item name="android:textStyle">normal</item>
         <item name="android:textColor">?android:attr/textColorPrimary</item>
