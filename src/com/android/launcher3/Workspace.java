@@ -89,7 +89,7 @@ import androidx.core.view.ViewCompat;
 
 import com.android.app.animation.Interpolators;
 
-import com.android.internal.util.derp.derpUtils;
+import com.android.internal.util.orion.orionUtils;
 
 import com.android.launcher3.LauncherFiles;
 import com.android.launcher3.LauncherPrefs;
@@ -416,29 +416,29 @@ public class Workspace<T extends View & PageIndicator> extends PagedView<T>
                 break;
             // Sleep
             case 1:
-                derpUtils.switchScreenOff(getContext());
+                orionUtils.switchScreenOff(getContext());
                 break;
             // Flashlight
             case 2:
-                derpUtils.toggleCameraFlash();
+                orionUtils.toggleCameraFlash();
                 break;
             case 3: // Volume panel
-                derpUtils.toggleVolumePanel(getContext());
+                orionUtils.toggleVolumePanel(getContext());
                 break;
             case 4: // Clear notifications
-                derpUtils.clearAllNotifications();
+                orionUtils.clearAllNotifications();
                 break;
             case 5: // Screenshot
-                derpUtils.takeScreenshot(true);
+                orionUtils.takeScreenshot(true);
                 break;
             case 6: // Notifications
-                derpUtils.toggleNotifications();
+                orionUtils.toggleNotifications();
                 break;
             case 7: // QS panel
-                derpUtils.toggleQsPanel();
+                orionUtils.toggleQsPanel();
                 break;
             case 8: // Powermenu
-                derpUtils.showPowerMenu();
+                orionUtils.showPowerMenu();
                 break;
             case 9: // Clear all apps
                 clearAllApps();

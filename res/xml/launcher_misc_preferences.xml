@@ -33,7 +33,7 @@
         android:key="pref_trust_apps"
         android:title="@string/trust_apps_manager_name" />
 
-    <org.derpfest.support.preferences.ProperSeekBarPreference
+    <org.orionfest.support.preferences.ProperSeekBarPreference
         android:key="pref_blur_depth"
         android:title="@string/background_blur_title"
         android:summary="@string/background_blur_summary"

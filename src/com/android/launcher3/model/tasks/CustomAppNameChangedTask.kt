@@ -1,5 +1,5 @@
 /*
- * SPDX-FileCopyrightText: DerpFest AOSP
+ * SPDX-FileCopyrightText: OrionFest AOSP
  * SPDX-License-Identifier: Apache-2.0
  */
 

@@ -4,10 +4,10 @@
     <string name="about">Інфа</string>
     <string name="about_app_subtitle">Базовано на AOSP Launcher3</string>
     <!-- About info -->
-    <string name="about_app_title">DerpLauncher</string>
+    <string name="about_app_title">OrionLauncher</string>
     <string name="about_app_version_text">Версія</string>
     <string name="about_app_version_value">BP4A.251205.006</string>
-    <string name="about_summary">Інформація про DerpLauncher</string>
+    <string name="about_summary">Інформація про OrionLauncher</string>
     <string name="about_thanks_cat">Особлива подяка</string>
     <string name="actions_category_title">Швидкі дії</string>
     <string name="ai_mode_not_available">Функціональність ШІ недоступна</string>
@@ -30,7 +30,7 @@
     <string name="background_opacity_title">Непрозорість фону</string>
     <string name="caddy_beta">Caddy (бета-версія)</string>
     <!-- Application name -->
-    <string name="derp_app_name">DerpLauncher</string>
+    <string name="orion_app_name">OrionLauncher</string>
     <string name="dev_options_summary">Увімкнення деяких прихованих функцій здійснюється на ваш страх і ризик</string>
     <!-- Developer options -->
     <string name="dev_options_title">Налаштування розробника</string>
@@ -144,7 +144,7 @@
     <string name="quick_event_ambient_song_artist">%1$s від %2$s</string>
     <string name="quick_event_rom_intro_learn">Натисніть тут, щоб повеселитись!</string>
     <!-- QuickSpace: QuickEvent: Device Intro Event -->
-    <string name="quick_event_rom_intro_welcome">Ласкаво просимо в DerpFest!</string>
+    <string name="quick_event_rom_intro_welcome">Ласкаво просимо в OrionFest!</string>
     <string name="quickspace_accent_tint_summary">Застосувати системний акцентний колір до всіх елементів quickspace</string>
     <string name="quickspace_accent_tint_title">Тонування елементів системним акцентним кольором</string>
     <string name="quickspace_app_memory_info_summary">Показувати використання пам\'яті рекомендованими/нерекомендованими програмами в повідомленнях</string>
@@ -238,13 +238,13 @@
         <item>Ви чекнули всі твіки?</item>
         <item>Скільки скріншотів ви робите?</item>
         <item>Поширюйте любов, а не хаос (гра слів з havoc, висміюванням Havoc-OS)</item>
-        <item>Ваш пристрій derpнутий?</item>
+        <item>Ваш пристрій orionнутий?</item>
         <item>От би VoLTE працював</item>
         <item>Повеселись!</item>
         <item>Давай гріндити!</item>
         <item>\u003C\u003C\u003C\u003C\u003C\u003C\u003C HEAD</item>
-        <item>Щоб це побачити, вам потрібен DerpLauncher Premium.</item>
-        <item>Щоб це побачити, вам потрібен DerpFest Premium</item>
+        <item>Щоб це побачити, вам потрібен OrionLauncher Premium.</item>
+        <item>Щоб це побачити, вам потрібен OrionFest Premium</item>
         <item>Обвуглена статуя сови</item>
         <item>...бо 404 - відстій!</item>
         <item>Їжте овочі та надсилайте логи</item>
@@ -269,12 +269,12 @@
         <item>Який чудовий досвід, чи не так?</item>
         <item>найс</item>
         <item>ツ</item>
-        <item>#StayDerped m/</item>
-        <item>DerpFest FTW м/</item>
+        <item>#StayOrioned m/</item>
+        <item>OrionFest FTW м/</item>
         <item>Шо в тебе на думці?</item>
         <item>Виникла проблема? Не забудьте логи</item>
-        <item>Стати Derpнутим</item>
-        <item>#StayDerped</item>
+        <item>Стати Orionнутим</item>
+        <item>#StayOrioned</item>
         <item>Чарлі Воттс мертвий, а ти живий</item>
         <item>rm -rf /</item>
     </string-array>
@@ -348,12 +348,12 @@
     <string name="trust_apps_no_lock_error">Будь ласка, налаштуйте безпечний екран блокування, щоб обмежувати доступ до програм</string>
     <string name="video_category_label">Відео</string>
     <string-array name="welcome_message_variants">
-        <item>Дякуємо, що обрали DerpFest</item>
+        <item>Дякуємо, що обрали OrionFest</item>
         <item>Найкраща прошивка за всю історію</item>
-        <item>DerpFest FTW!</item>
+        <item>OrionFest FTW!</item>
         <item>Гарного дня!</item>
         <item>Привітайтеся з нами в Telegram</item>
-        <item>#StayDerped</item>
+        <item>#StayOrioned</item>
         <item>Ми любимо тебе 3000</item>
     </string-array>
     <!-- A widget category label for grouping widgets related to battery. [CHAR_LIMIT=30] -->

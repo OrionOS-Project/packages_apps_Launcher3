@@ -36,7 +36,7 @@ import android.view.ViewConfiguration;
 import android.view.Window;
 import android.view.WindowManager;
 
-import com.android.internal.util.derp.derpUtils;
+import com.android.internal.util.orion.orionUtils;
 import com.android.launcher3.LauncherFiles;
 import com.android.launcher3.LauncherPrefs;
 import com.android.launcher3.util.VibratorWrapper;
@@ -122,29 +122,29 @@ public class StatusBarTouchController implements TouchController {
                 break;
             // Sleep
             case 1:
-                derpUtils.switchScreenOff(mLauncher.asContext());
+                orionUtils.switchScreenOff(mLauncher.asContext());
                 break;
             // Flashlight
             case 2:
-                derpUtils.toggleCameraFlash();
+                orionUtils.toggleCameraFlash();
                 break;
             case 3: // Volume panel
-                derpUtils.toggleVolumePanel(mLauncher.asContext());
+                orionUtils.toggleVolumePanel(mLauncher.asContext());
                 break;
             case 4: // Clear notifications
-                derpUtils.clearAllNotifications();
+                orionUtils.clearAllNotifications();
                 break;
             case 5: // Screenshot
-                derpUtils.takeScreenshot(true);
+                orionUtils.takeScreenshot(true);
                 break;
             case 6: // Notifications
-                derpUtils.toggleNotifications();
+                orionUtils.toggleNotifications();
                 break;
             case 7: // QS panel
-                derpUtils.toggleQsPanel();
+                orionUtils.toggleQsPanel();
                 break;
             case 8: // Powermenu
-                derpUtils.showPowerMenu();
+                orionUtils.showPowerMenu();
                 break;
             case 9: // Clear all apps
                 clearAllApps();

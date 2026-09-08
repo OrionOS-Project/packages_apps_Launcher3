@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     SPDX-FileCopyrightText: DerpFest AOSP
+     SPDX-FileCopyrightText: OrionFest AOSP
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Application name -->
-    <string name="derp_app_name" translatable="false">DerpLauncher</string>
+    <string name="orion_app_name" translatable="false">OrionLauncher</string>
 
     <!-- Folder titles -->
     <string name="google_folder_title" translatable="false">Google</string>
@@ -134,13 +134,13 @@
     <string name="show_top_shadow_summary">Add shadow underneath the status bar</string>
 
     <!-- About info -->
-    <string name="about_app_title" translatable="false">DerpLauncher</string>
+    <string name="about_app_title" translatable="false">OrionLauncher</string>
     <string name="about_app_subtitle">Based on AOSP Launcher3</string>
     <string name="about_app_version_text">Version</string>
     <string name="about_app_version_value" translatable="false">BP4A.251205.006</string>
     <string name="about_thanks_cat">Special thanks to</string>
     <string name="about">About</string>
-    <string name="about_summary">Info about the DerpLauncher</string>
+    <string name="about_summary">Info about the OrionLauncher</string>
 
     <!-- Haptics on DT2S -->
     <string name="pref_haptics_on_dt_gestures_title">Haptics on double tap gestures</string>
@@ -291,7 +291,7 @@
     <string name="background_blur_summary">Set blur depth level for recents and app drawer</string>
 
     <!-- QuickSpace: QuickEvent: Device Intro Event -->
-    <string name="quick_event_rom_intro_welcome">Welcome to DerpFest!</string>
+    <string name="quick_event_rom_intro_welcome">Welcome to OrionFest!</string>
     <string name="quick_event_rom_intro_learn">Tap here to have fun!</string>
 
     <!-- QuickSpace: QuickEvent: Ambient Play -->
@@ -305,12 +305,12 @@
     <string name="quickspace_now_playing_showdate_summary">Shows date in the first line instead of \"Now Playing\"</string>
 
     <string-array translatable="false" name="welcome_message_variants">
-        <item>Thank you for choosing DerpFest</item>
+        <item>Thank you for choosing OrionFest</item>
         <item>Best ROM Ever</item>
-        <item>DerpFest FTW!</item>
+        <item>OrionFest FTW!</item>
         <item>Have a great day</item>
         <item>Say hi to us on Telegram</item>
-        <item>#StayDerped</item>
+        <item>#StayOrioned</item>
         <item>We love you 3000</item>
     </string-array>
 
@@ -367,13 +367,13 @@
         <item>Did you checkout all the tweaks?</item>
         <item>How many screenshots do you take?</item>
         <item>Spread love not havoc</item>
-        <item>Is your device derped?</item>
+        <item>Is your device orioned?</item>
         <item>I wish I could use VoLTE</item>
         <item>Have fun!</item>
         <item>Let\'s get this grind, gamer!</item>
         <item>\u003C\u003C\u003C\u003C\u003C\u003C\u003C HEAD</item>
-        <item>You need DerpLauncher Premium to see this</item>
-        <item>You need DerpFest Premium to see this</item>
+        <item>You need OrionLauncher Premium to see this</item>
+        <item>You need OrionFest Premium to see this</item>
         <item>A carbonized owl statue</item>
         <item>...cause 404 sucks!</item>
         <item>Eat your veggies and send logs</item>
@@ -398,12 +398,12 @@
         <item>What a lovely experience, isn\'t it?</item>
         <item>nice</item>
         <item>ツ</item>
-        <item>#StayDerped \m/</item>
-        <item>DerpFest FTW \m/</item>
+        <item>#StayOrioned \m/</item>
+        <item>OrionFest FTW \m/</item>
         <item>What\'s on your mind?</item>
         <item>Got an issue? Don\'t forget a logcat</item>
-        <item>Get Derped</item>
-        <item>#StayDerped</item>
+        <item>Get Orioned</item>
+        <item>#StayOrioned</item>
         <item>Charlie Watts is dead and you are alive</item>
         <item>rm -rf \/</item>
     </string-array>

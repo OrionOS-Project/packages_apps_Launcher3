@@ -102,7 +102,7 @@
             android:dependency="pref_drawer_show_labels"
             launcher:iconSpaceReserved="false" />
 
-        <org.derpfest.support.preferences.ProperSeekBarPreference
+        <org.orionfest.support.preferences.ProperSeekBarPreference
             android:key="pref_app_drawer_opacity"
             android:title="@string/background_opacity_title"
             android:persistent="true"

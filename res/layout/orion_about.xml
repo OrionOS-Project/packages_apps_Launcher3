@@ -2,7 +2,7 @@
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:background="@drawable/derp_about"
+    android:background="@drawable/orion_about"
     android:layout_width="fill_parent"
     android:layout_height="wrap_content"
     android:layout_marginStart="16dp"

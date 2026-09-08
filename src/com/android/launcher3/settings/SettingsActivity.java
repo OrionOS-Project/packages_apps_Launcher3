@@ -131,7 +131,7 @@ public class SettingsActivity extends FragmentActivity
     public boolean onPreferenceStartScreen(PreferenceFragmentCompat caller, PreferenceScreen pref) {
         Bundle args = new Bundle();
         args.putString(ARG_PREFERENCE_ROOT, pref.getKey());
-        return startPreference(getString(R.string.derp_app_name), args, pref.getKey());
+        return startPreference(getString(R.string.orion_app_name), args, pref.getKey());
     }
 
     @Override

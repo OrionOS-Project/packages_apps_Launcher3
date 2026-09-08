@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     SPDX-FileCopyrightText: DerpFest AOSP
+     SPDX-FileCopyrightText: OrionFest AOSP
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Application name -->
-    <string name="derp_app_name" translatable="false">DerpLauncher</string>
+    <string name="orion_app_name" translatable="false">OrionLauncher</string>
 
     <!-- Folder titles -->
     <string name="google_folder_title" translatable="false">Google</string>
@@ -124,13 +124,13 @@
     <string name="show_top_shadow_summary">在狀態列下方新增陰影</string>
 
     <!-- About info -->
-    <string name="about_app_title" translatable="false">DerpLauncher</string>
+    <string name="about_app_title" translatable="false">OrionLauncher</string>
     <string name="about_app_subtitle">基於 AOSP Launcher3</string>
     <string name="about_app_version_text">版本</string>
     <string name="about_app_version_value" translatable="false">BP4A.251205.006</string>
     <string name="about_thanks_cat">特別感謝</string>
     <string name="about">關於</string>
-    <string name="about_summary">關於 DerpLauncher 的資訊</string>
+    <string name="about_summary">關於 OrionLauncher 的資訊</string>
 
     <!-- Haptics on DT2S -->
     <string name="pref_haptics_on_dt_gestures_title">輕點兩下手勢的觸覺回饋</string>
@@ -227,7 +227,7 @@
     <string name="background_blur_summary">設定最近應用程式與應用程式抽屜的模糊深度等級</string>
 
     <!-- QuickSpace: QuickEvent: Device Intro Event -->
-    <string name="quick_event_rom_intro_welcome">歡迎來到 DerpFest！</string>
+    <string name="quick_event_rom_intro_welcome">歡迎來到 OrionFest！</string>
     <string name="quick_event_rom_intro_learn">點擊此處探索樂趣！</string>
 
     <!-- QuickSpace: QuickEvent: Ambient Play -->
@@ -241,12 +241,12 @@
     <string name="quickspace_now_playing_showdate_summary">第一行改為顯示日期而非「正在播放」</string>
 
     <string-array translatable="false" name="welcome_message_variants">
-        <item>Thank you for choosing DerpFest</item>
+        <item>Thank you for choosing OrionFest</item>
         <item>Best ROM Ever</item>
-        <item>DerpFest FTW!</item>
+        <item>OrionFest FTW!</item>
         <item>Have a great day</item>
         <item>Say hi to us on Telegram</item>
-        <item>#StayDerped</item>
+        <item>#StayOrioned</item>
         <item>We love you 3000</item>
     </string-array>
 
@@ -303,13 +303,13 @@
         <item>你有確認過所有微調選項嗎？</item>
         <item>你截了多少張圖？</item>
         <item>散播愛，而非混亂</item>
-        <item>你的裝置「derped」了嗎？</item>
+        <item>你的裝置「orioned」了嗎？</item>
         <item>真希望我能用 VoLTE</item>
         <item>玩得開心！</item>
         <item>開始努力吧，玩家！</item>
         <item>\u003C\u003C\u003C\u003C\u003C\u003C\u003C HEAD</item>
-        <item>您需要 DerpLauncher Premium 才能看到此內容</item>
-        <item>您需要 DerpFest Premium 才能看到此內容</item>
+        <item>您需要 OrionLauncher Premium 才能看到此內容</item>
+        <item>您需要 OrionFest Premium 才能看到此內容</item>
         <item>一座碳化的貓頭鷹雕像</item>
         <item>...因為 404 很爛！</item>
         <item>多吃蔬菜並傳送日誌</item>
@@ -334,12 +334,12 @@
         <item>多麼美好的體驗，不是嗎？</item>
         <item>nice</item>
         <item>ツ</item>
-        <item>#StayDerped \m/</item>
-        <item>DerpFest FTW \m/</item>
+        <item>#StayOrioned \m/</item>
+        <item>OrionFest FTW \m/</item>
         <item>你在想什麼？</item>
         <item>遇到問題了？別忘了附上 logcat</item>
-        <item>Get Derped</item>
-        <item>#StayDerped</item>
+        <item>Get Orioned</item>
+        <item>#StayOrioned</item>
         <item>Charlie Watts 去世了，而您還活著</item>
         <item>rm -rf \/</item>
     </string-array>
